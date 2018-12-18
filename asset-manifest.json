@@ -1,7 +1,7 @@
 {
   "main.css": "/joserodolfo/static/css/main.76e577f1.chunk.css",
-  "main.js": "/joserodolfo/static/js/main.1e0f7e98.chunk.js",
-  "main.js.map": "/joserodolfo/static/js/main.1e0f7e98.chunk.js.map",
+  "main.js": "/joserodolfo/static/js/main.2bb9f8d5.chunk.js",
+  "main.js.map": "/joserodolfo/static/js/main.2bb9f8d5.chunk.js.map",
   "static/js/1.66189330.chunk.js": "/joserodolfo/static/js/1.66189330.chunk.js",
   "static/js/1.66189330.chunk.js.map": "/joserodolfo/static/js/1.66189330.chunk.js.map",
   "runtime~main.js": "/joserodolfo/static/js/runtime~main.f980b8be.js",
@@ -11,6 +11,6 @@
   "static/media/me_head.jpg": "/joserodolfo/static/media/me_head.8830b4aa.jpg",
   "static/css/main.76e577f1.chunk.css.map": "/joserodolfo/static/css/main.76e577f1.chunk.css.map",
   "index.html": "/joserodolfo/index.html",
-  "precache-manifest.f4ce003a40b65fc0430537870784881b.js": "/joserodolfo/precache-manifest.f4ce003a40b65fc0430537870784881b.js",
+  "precache-manifest.a17fa76169394d3a815b96a41d2ba8ac.js": "/joserodolfo/precache-manifest.a17fa76169394d3a815b96a41d2ba8ac.js",
   "service-worker.js": "/joserodolfo/service-worker.js"
 }
