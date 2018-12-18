@@ -2,7 +2,7 @@
   "name": "portfolio-new",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://joserodolfo.com/joserodolfo",
+  "homepage":"https://joserodolfo.com",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
